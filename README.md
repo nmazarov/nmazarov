@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nmazarov 👋
+# Всем привет, меня зовут Никита Ветохин 👋
 
 ### 🚀 Junior DevOps Engineer | Security Enthusiast | Automation Lover
 
