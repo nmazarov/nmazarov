@@ -2,7 +2,7 @@
 
 # Всем привет, меня зовут Никита Ветохин 👋
 
-### 🚀 Junior DevOps Engineer | Security Enthusiast | Automation Lover
+### 🚀 Middle DevOps | DevSecOps Engineer | Security Enthusiast | Automation Lover
 
 *Превращаю код в работающую, защищенную и наблюдаемую инфраструктуру.*
 
