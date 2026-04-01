@@ -55,12 +55,21 @@
 
 ---
 
+---
+
 ## 📈 Моя активность
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmazarov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmazarov&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmazarov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmazarov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmazarov&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
+
+---
 
 <div align="center">
   <br>
